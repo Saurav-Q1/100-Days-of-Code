@@ -16,7 +16,7 @@ I've joined the #100DaysOfCode Challenge
 - Html blocks and inline elements
 - Html iframe
 - learning about html id and class
-- Learning about javascript and hoe to use script tag
+- Learning about javascript and how to use script tag
 - Learning about smentic elements
 ![image](https://github.com/Saurav-Q1/100-Days-of-Code/assets/59795183/06e69c1a-b5a7-44cd-bc04-44f0150e1bb7)
 - Leraning about Html forms 
