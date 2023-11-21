@@ -20,3 +20,12 @@ I've joined the #100DaysOfCode Challenge
 - Learning about smentic elements
 ![image](https://github.com/Saurav-Q1/100-Days-of-Code/assets/59795183/06e69c1a-b5a7-44cd-bc04-44f0150e1bb7)
 - Leraning about Html forms 
+
+# Day 3
+- Learned about Html input type
+- Html web accessiblity
+- html form element
+- Done a project on form design
+- https://saurav-q1.github.io/20.11.2023-task1-form-design.github.io/
+- Done another project on 2023 world cup
+- https://saurav-q1.github.io/20.11.2023-task2-world-cup-2023.github.io/
