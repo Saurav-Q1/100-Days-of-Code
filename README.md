@@ -29,3 +29,12 @@ I've joined the #100DaysOfCode Challenge
 - https://saurav-q1.github.io/20.11.2023-task1-form-design.github.io/
 - Done another project on 2023 world cup
 - https://saurav-q1.github.io/20.11.2023-task2-world-cup-2023.github.io/
+
+# Day 4
+- Start learning about basic css
+- css sysntax
+- css selectors
+- Types of css
+- Created some buttons (Html + css)
+- ![image](https://github.com/Saurav-Q1/100-Days-of-Code/assets/59795183/b44da4b9-58df-4f3a-924c-afac66268681)
+
