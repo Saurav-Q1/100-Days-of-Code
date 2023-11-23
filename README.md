@@ -38,3 +38,13 @@ I've joined the #100DaysOfCode Challenge
 - Created some buttons (Html + css)
 - ![image](https://github.com/Saurav-Q1/100-Days-of-Code/assets/59795183/b44da4b9-58df-4f3a-924c-afac66268681)
 
+# Day 5
+- Learned about css color
+- Css comments
+- Css box
+- Created a registration form (Html)
+- Added google map
+- Link: https://saurav-q1.github.io/22.11.2023-Registration-form-google-map/
+- ![image](https://github.com/Saurav-Q1/100-Days-of-Code/assets/59795183/f8376347-d4f8-4a06-bd93-f2478a8b75c1)
+- ![image](https://github.com/Saurav-Q1/100-Days-of-Code/assets/59795183/e21c7099-de26-4ff1-be92-5a7474b0625f)
+
