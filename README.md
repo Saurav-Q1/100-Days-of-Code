@@ -63,6 +63,9 @@ Any suggestions on how I can improve are welcome!
 - ![image](https://github.com/Saurav-Q1/100-Days-of-Code/assets/59795183/659848d5-57f3-4f8e-8788-8c675d2727a9)
 
 # Day 7
+- Learned about css icons
+- Css lists
+- Css table
 - Done a project on Product review page
 - I've just completed a front-end coding challenge from @frontendmentor! 🎉
 
