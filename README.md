@@ -62,4 +62,14 @@ You can see my solution here: https://www.frontendmentor.io/solutions/responsive
 Any suggestions on how I can improve are welcome! 
 - ![image](https://github.com/Saurav-Q1/100-Days-of-Code/assets/59795183/659848d5-57f3-4f8e-8788-8c675d2727a9)
 
+# Day 7
+- Done a project on Product review page
+- I've just completed a front-end coding challenge from @frontendmentor! 🎉
+
+You can see my solution here: https://www.frontendmentor.io/solutions/product-review-page-2SzJWP-DLp
+
+Any suggestions on how I can improve are welcome!
+- https://saurav-q1.github.io/25.11.2023-product-preview-card.github.io/
+- ![image](https://github.com/Saurav-Q1/100-Days-of-Code/assets/59795183/ae4febf8-96fe-49f2-8dd7-2cc293c4289a)
+
 
