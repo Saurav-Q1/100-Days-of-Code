@@ -75,4 +75,12 @@ Any suggestions on how I can improve are welcome!
 - https://saurav-q1.github.io/25.11.2023-product-preview-card.github.io/
 - ![image](https://github.com/Saurav-Q1/100-Days-of-Code/assets/59795183/ae4febf8-96fe-49f2-8dd7-2cc293c4289a)
 
-
+# Day 8
+- Learning about css position
+- Css combinators
+- css specificity
+- Working on to 2 projects
+- project 1 : Lawlite webpage
+  progress: https://saurav-q1.github.io/26.11.2023-task1.github.io/ 
+- project 2 : Bantu warga webpage
+  progress: https://saurav-q1.github.io/26.11.2023-task2.github.io/ 
