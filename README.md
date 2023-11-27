@@ -83,4 +83,18 @@ Any suggestions on how I can improve are welcome!
 - project 1 : Lawlite webpage
   progress: https://saurav-q1.github.io/26.11.2023-task1.github.io/ 
 - project 2 : Bantu warga webpage
-  progress: https://saurav-q1.github.io/26.11.2023-task2.github.io/ 
+  progress: https://saurav-q1.github.io/26.11.2023-task2.github.io/
+
+# Day 9
+- learning about bootstrap
+- Bootstarp installation from cdns/official site
+- Working bantu warga website
+- Finish working on navigation system (html + css)
+- ![image](https://github.com/Saurav-Q1/100-Days-of-Code/assets/59795183/386dbcf8-5e15-41ae-82fc-5251c04069ce)
+- Finished Working on hero section (html + css)
+- ![image](https://github.com/Saurav-Q1/100-Days-of-Code/assets/59795183/6f82c218-42cb-4498-9543-5bb1b3000559)
+- Finished Working on Featured section (html + css)
+- ![image](https://github.com/Saurav-Q1/100-Days-of-Code/assets/59795183/b76526ef-52e0-414b-8df8-097b2112ec3e)
+
+
+
