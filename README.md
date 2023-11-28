@@ -96,5 +96,24 @@ Any suggestions on how I can improve are welcome!
 - Finished Working on Featured section (html + css)
 - ![image](https://github.com/Saurav-Q1/100-Days-of-Code/assets/59795183/b76526ef-52e0-414b-8df8-097b2112ec3e)
 
+# Day 10
+- Learning about bootstrap carusel
+- bootstrap form design
+- working on a new project (Basic html)
+- online shopping webside
+- Home page
+- ![image](https://github.com/Saurav-Q1/100-Days-of-Code/assets/59795183/53c5706f-30cf-4bd3-9d7b-3d89b1af0f64)
+- Single product page
+- ![image](https://github.com/Saurav-Q1/100-Days-of-Code/assets/59795183/179d4bef-e86a-43d7-bdb9-701a75f39251)
+- checkout page
+- ![image](https://github.com/Saurav-Q1/100-Days-of-Code/assets/59795183/b5dde2ef-8ece-46b9-851f-a1d830724278)
+- contac page
+- ![image](https://github.com/Saurav-Q1/100-Days-of-Code/assets/59795183/9328b34a-b2c5-46fd-b33f-eb653ac6c6fe)
+- Registration page
+- ![image](https://github.com/Saurav-Q1/100-Days-of-Code/assets/59795183/bd81a2be-33c2-45fd-9fda-26f2a1a84316)
+
+
+
+
 
 
