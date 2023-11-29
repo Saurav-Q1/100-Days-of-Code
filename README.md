@@ -112,8 +112,14 @@ Any suggestions on how I can improve are welcome!
 - Registration page
 - ![image](https://github.com/Saurav-Q1/100-Days-of-Code/assets/59795183/bd81a2be-33c2-45fd-9fda-26f2a1a84316)
 
-
-
+# Day 11
+- Learning about flex box
+- Css grid
+- css box modeling
+- Fonts
+- Done a project on
+- Agency landing page
+- https://saurav-q1.github.io/29.11.2023-egency-landing-page.github.io/ 
 
 
 
