@@ -121,5 +121,15 @@ Any suggestions on how I can improve are welcome!
 - Agency landing page
 - https://saurav-q1.github.io/29.11.2023-egency-landing-page.github.io/ 
 
+# Day 12
+- Learning about Bootstrap modal
+- popover
+- toast
+- container
+- Learning the basic about sass
+- sass installation system
+- compiling system
+- created a web page with bangla fonts
+- https://saurav-q1.github.io/30.11.2023-bangla-web-page.github.io/
 
 
