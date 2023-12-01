@@ -132,4 +132,18 @@ Any suggestions on how I can improve are welcome!
 - created a web page with bangla fonts
 - https://saurav-q1.github.io/30.11.2023-bangla-web-page.github.io/
 
+# Day 13
+- learning about bootstrap grid system
+- bootstrap Container
+- bootstrap Alert box
+- bootstrap Badges
+- bootstrap Buttons
+- Working one a old web page
+- Bantu warga:
+- Completed : Get the app section
+- ![image](https://github.com/Saurav-Q1/100-Days-of-Code/assets/59795183/6dcf650b-6403-47ef-aac5-4133424a0a6e)
+- Covid information section:
+- ![image](https://github.com/Saurav-Q1/100-Days-of-Code/assets/59795183/572cbc31-57f9-4e54-8ffb-bbee01189cc4)
+
+
 
