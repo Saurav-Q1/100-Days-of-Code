@@ -145,5 +145,15 @@ Any suggestions on how I can improve are welcome!
 - Covid information section:
 - ![image](https://github.com/Saurav-Q1/100-Days-of-Code/assets/59795183/572cbc31-57f9-4e54-8ffb-bbee01189cc4)
 
+# Day 14
+- Learning about bootstrap color
+- Images
+- Bootstrap table
+- Working on a old project
+- Finishind working on contact section
+- ![image](https://github.com/Saurav-Q1/100-Days-of-Code/assets/59795183/759e4e77-fde7-4e60-8e5a-7baa18df7f98)
+- Finished working on footer section
+- ![image](https://github.com/Saurav-Q1/100-Days-of-Code/assets/59795183/a3ce1e0f-94ad-4a73-9876-a77dfb41a957)
+- Full "Bantu warga" web page design (Html + css) in day 14 folder
 
 
