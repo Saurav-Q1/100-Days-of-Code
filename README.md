@@ -156,4 +156,13 @@ Any suggestions on how I can improve are welcome!
 - ![image](https://github.com/Saurav-Q1/100-Days-of-Code/assets/59795183/a3ce1e0f-94ad-4a73-9876-a77dfb41a957)
 - Full "Bantu warga" web page design (Html + css) in day 14 folder
 
+# Day 15
+- Lerning about bootstrap
+- Working with responsive web page
+- started working on a new web page Name: Frontend bootcamp
+- Finished working on navigation section and Showcase section
+- Fully mobile responsive (Html + css + bootstrap)
+- ![image](https://github.com/Saurav-Q1/100-Days-of-Code/assets/59795183/0330eacb-a99f-46b7-8928-e425c7868a1e)
+- ![image](https://github.com/Saurav-Q1/100-Days-of-Code/assets/59795183/c780c8f4-1a23-4d09-93da-86c9a9a411fb)
 
+ 
