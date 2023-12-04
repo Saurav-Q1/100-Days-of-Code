@@ -165,4 +165,20 @@ Any suggestions on how I can improve are welcome!
 - ![image](https://github.com/Saurav-Q1/100-Days-of-Code/assets/59795183/0330eacb-a99f-46b7-8928-e425c7868a1e)
 - ![image](https://github.com/Saurav-Q1/100-Days-of-Code/assets/59795183/c780c8f4-1a23-4d09-93da-86c9a9a411fb)
 
- 
+# Day 16
+- Started learning about java script
+- output
+- Data type
+- Variable types
+- Add, Subtraction, multiplication
+- increment decrement
+- Concaination
+- string length finding
+- Working on a old project
+- Name: Frontend bootcamp
+- Completed working on newsletter aection
+- ![image](https://github.com/Saurav-Q1/100-Days-of-Code/assets/59795183/037b29a8-bcba-4a01-9e78-dd230ae699a9)
+- Complteted working on card section
+- ![image](https://github.com/Saurav-Q1/100-Days-of-Code/assets/59795183/85474512-b980-444a-b075-6c643c516446)
+
+
