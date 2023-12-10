@@ -192,5 +192,12 @@ Any suggestions on how I can improve are welcome!
 - finished working on question section
 - ![image](https://github.com/Saurav-Q1/100-Days-of-Code/assets/59795183/33c2575c-70d6-461a-9b24-6a732fef0a67)
 
+# Day 18
+- Learning about Bootstrap
+- Started learning about sass
+- finished working on a old project
+- Name: Frontend bootcamp landing page
+- https://saurav-q1.github.io/12.10.2023-frontend-bootcamp-landing-page.github.io/
+- ![image](https://github.com/Saurav-Q1/100-Days-of-Code/assets/59795183/f2057cb6-80f2-4589-b22b-96e19c99cf29)
 
 
