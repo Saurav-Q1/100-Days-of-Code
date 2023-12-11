@@ -201,4 +201,16 @@ Any suggestions on how I can improve are welcome!
 - https://saurav-q1.github.io/12.10.2023-frontend-bootcamp-landing-page.github.io/
 - ![image](https://github.com/Saurav-Q1/100-Days-of-Code/assets/59795183/f2057cb6-80f2-4589-b22b-96e19c99cf29)
 
+# Day 19
+- Learning about Bootstrap
+- Gained basic knowledge about css grid
+- Started working on a new landing page
+- Name: Tachno-web (HTML + CSS + Bootstrap)
+- Finished warking on nav bar + Hero section + About section + Service section
+- ![image](https://github.com/Saurav-Q1/100-Days-of-Code/assets/59795183/48cf9586-7617-4747-b91a-ceed1d56c74d)
+- ![image](https://github.com/Saurav-Q1/100-Days-of-Code/assets/59795183/d032dad8-7a05-4b63-8b2d-fd8ca4bf78d6)
+- ![image](https://github.com/Saurav-Q1/100-Days-of-Code/assets/59795183/f2231f03-7e93-4d0e-b2ee-31a9fa136b27)
 
+
+
+   
