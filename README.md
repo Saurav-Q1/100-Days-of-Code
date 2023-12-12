@@ -211,6 +211,10 @@ Any suggestions on how I can improve are welcome!
 - ![image](https://github.com/Saurav-Q1/100-Days-of-Code/assets/59795183/d032dad8-7a05-4b63-8b2d-fd8ca4bf78d6)
 - ![image](https://github.com/Saurav-Q1/100-Days-of-Code/assets/59795183/f2231f03-7e93-4d0e-b2ee-31a9fa136b27)
 
+# Day 20
+- Finished working on a Frontend mentor project
+- https://saurav-q1.github.io/12.12.2023-frontend-mentor-NFT-card.github.io/
+- ![image](https://github.com/Saurav-Q1/100-Days-of-Code/assets/59795183/0f2ee366-9024-4904-b9bd-2f157e9e170a)
 
 
    
