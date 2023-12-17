@@ -222,4 +222,14 @@ Any suggestions on how I can improve are welcome!
 - HTML + SASS
 - ![image](https://github.com/Saurav-Q1/100-Days-of-Code/assets/59795183/e53588f9-70dc-4545-bff9-95c46cc68b34)
 
+# Day 22
+- Working on a old peoject
+- Name: Techno-web
+- Finished working on team section + contact section
+- ![image](https://github.com/Saurav-Q1/100-Days-of-Code/assets/59795183/c611c3d2-2af7-4e99-ba92-6b7558360836)
+- Landing page is ready
+- full responsive
+- HTML + CSS + BOOTSTRAP
+- https://darling-tapioca-d4a3c2.netlify.app/ 
+
    
