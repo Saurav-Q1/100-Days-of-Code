@@ -216,5 +216,10 @@ Any suggestions on how I can improve are welcome!
 - https://saurav-q1.github.io/12.12.2023-frontend-mentor-NFT-card.github.io/
 - ![image](https://github.com/Saurav-Q1/100-Days-of-Code/assets/59795183/0f2ee366-9024-4904-b9bd-2f157e9e170a)
 
+# Day 21
+- Finished working on a frontend project
+- https://extraordinary-dieffenbachia-4f9782.netlify.app/
+- HTML + SASS
+- ![image](https://github.com/Saurav-Q1/100-Days-of-Code/assets/59795183/e53588f9-70dc-4545-bff9-95c46cc68b34)
 
    
