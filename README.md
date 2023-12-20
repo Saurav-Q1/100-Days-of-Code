@@ -232,4 +232,9 @@ Any suggestions on how I can improve are welcome!
 - HTML + CSS + BOOTSTRAP
 - https://darling-tapioca-d4a3c2.netlify.app/ 
 
-   
+# Day 23
+- Working on a hero section
+- finished working
+- https://rococo-valkyrie-7db081.netlify.app/
+- ![image](https://github.com/Saurav-Q1/100-Days-of-Code/assets/59795183/c28f7a9f-01ff-4641-ac7f-195b3922397b)
+
