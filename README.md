@@ -238,3 +238,13 @@ Any suggestions on how I can improve are welcome!
 - https://rococo-valkyrie-7db081.netlify.app/
 - ![image](https://github.com/Saurav-Q1/100-Days-of-Code/assets/59795183/c28f7a9f-01ff-4641-ac7f-195b3922397b)
 
+# Day 24
+- Learning about javaSript
+- Variable
+- Mathmetical terms
+- Working on a project called "Passenger count app" using javaSript
+- finished working on a front end mentor project called "Profile card component"
+- https://jazzy-praline-362894.netlify.app/
+- ![image](https://github.com/Saurav-Q1/100-Days-of-Code/assets/59795183/0c8d2a85-2a59-4e82-bbac-e822f392e4da)
+
+- 
