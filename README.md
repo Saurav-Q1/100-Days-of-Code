@@ -247,4 +247,14 @@ Any suggestions on how I can improve are welcome!
 - https://jazzy-praline-362894.netlify.app/
 - ![image](https://github.com/Saurav-Q1/100-Days-of-Code/assets/59795183/0c8d2a85-2a59-4e82-bbac-e822f392e4da)
 
-- 
+# Day 25
+- Learning about js
+- increment/decrement
+- functions
+- how to call a function
+- onclick event listener
+- working on a passenger countting app with js
+- finished working on a frontend mentor project
+- https://gentle-sunflower-87815b.netlify.app/
+- ![image](https://github.com/Saurav-Q1/100-Days-of-Code/assets/59795183/5c447bfa-3441-4f6a-85a2-c937eab617b3)
+
