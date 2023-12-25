@@ -258,3 +258,12 @@ Any suggestions on how I can improve are welcome!
 - https://gentle-sunflower-87815b.netlify.app/
 - ![image](https://github.com/Saurav-Q1/100-Days-of-Code/assets/59795183/5c447bfa-3441-4f6a-85a2-c937eab617b3)
 
+# day 26
+- Start learning about tailwind css
+- Installation
+- Setups
+- Started working on a landing page
+- Fininshed working on navigation bar
+- Finished working on hero section
+- Finished working on service section
+- ![image](https://github.com/Saurav-Q1/100-Days-of-Code/assets/59795183/0412d5c6-9847-4363-bbe1-9d8ea30c985e)
