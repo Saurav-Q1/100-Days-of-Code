@@ -267,3 +267,15 @@ Any suggestions on how I can improve are welcome!
 - Finished working on hero section
 - Finished working on service section
 - ![image](https://github.com/Saurav-Q1/100-Days-of-Code/assets/59795183/0412d5c6-9847-4363-bbe1-9d8ea30c985e)
+
+# Day 27
+- Lerning about js
+- Learning about tailwind css
+- finished working on a landing page
+- https://tourmaline-gelato-c94d2a.netlify.app/
+- ![image](https://github.com/Saurav-Q1/100-Days-of-Code/assets/59795183/a347a0ab-65ec-4089-ab9c-df9d2e8095da)
+- ![image](https://github.com/Saurav-Q1/100-Days-of-Code/assets/59795183/eec22e99-b265-44a0-aca9-68e4b700a7f4)
+- ![image](https://github.com/Saurav-Q1/100-Days-of-Code/assets/59795183/a1919ce9-8bf2-4500-a34f-511c1984bf47)
+
+
+
