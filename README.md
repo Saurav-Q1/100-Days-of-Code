@@ -277,5 +277,12 @@ Any suggestions on how I can improve are welcome!
 - ![image](https://github.com/Saurav-Q1/100-Days-of-Code/assets/59795183/eec22e99-b265-44a0-aca9-68e4b700a7f4)
 - ![image](https://github.com/Saurav-Q1/100-Days-of-Code/assets/59795183/a1919ce9-8bf2-4500-a34f-511c1984bf47)
 
+# Day 28
+- learning about responsive website
+- Finished working on a landing page from frontend mentor
+- https://marvelous-lebkuchen-04fcd3.netlify.app/#
+- ![image](https://github.com/Saurav-Q1/100-Days-of-Code/assets/59795183/b96bf5fa-31af-4f67-a161-550fbd88e0fb)
+- ![image](https://github.com/Saurav-Q1/100-Days-of-Code/assets/59795183/a05c7bf1-9947-469f-adb6-48c5b5d1da4a)
+
 
 
