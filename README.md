@@ -285,6 +285,18 @@ Any suggestions on how I can improve are welcome!
 - ![image](https://github.com/Saurav-Q1/100-Days-of-Code/assets/59795183/a05c7bf1-9947-469f-adb6-48c5b5d1da4a)
 - ![image](https://github.com/Saurav-Q1/100-Days-of-Code/assets/59795183/0f8b963b-e11a-496e-8c17-19569450b296)
 
+# Day 29
+- Learning about responsive web design
+- Working on a old project
+- Created a landing page fully mobile responsive
+- https://melodious-centaur-7fce2a.netlify.app/?fbclid=IwAR1QGirL8HgOJD1Q0lvrucKjCABjd1eu2fHBaMP_MrGMRGBynTwmqi7JcBU
+- ![image](https://github.com/Saurav-Q1/100-Days-of-Code/assets/59795183/863283a5-2672-4fa5-a26e-a8fa08ba411c)
+- ![image](https://github.com/Saurav-Q1/100-Days-of-Code/assets/59795183/efcb5dcd-e0c2-48be-86d6-de8b5ae88a58)
+- working on another landing page "Community landing page"
+- trying to build it mobile responsive
+- ![image](https://github.com/Saurav-Q1/100-Days-of-Code/assets/59795183/06011b92-07b2-42be-91a0-d2ab0168a4d4)
+
+
 
 
 
