@@ -304,6 +304,13 @@ Any suggestions on how I can improve are welcome!
 - ![image](https://github.com/Saurav-Q1/100-Days-of-Code/assets/59795183/5eeafe4b-1d04-460e-af9f-20fde50af0b9)
 - ![image](https://github.com/Saurav-Q1/100-Days-of-Code/assets/59795183/a02e92c1-4b02-4d2b-b51c-edb6d00dabd6)
 
+# Day 31
+- Learning about responsive design
+- learning about js
+- Css framework
+- working on a mentor project "Huddle"
+- trying to make it responsive
+- ![image](https://github.com/Saurav-Q1/100-Days-of-Code/assets/59795183/5d9c4acc-c9db-4a13-be4c-fc50ff6b1fd1)
 
 
 
