@@ -309,8 +309,22 @@ Any suggestions on how I can improve are welcome!
 - learning about js
 - Css framework
 - working on a mentor project "Huddle"
-- trying to make it responsive
-- ![image](https://github.com/Saurav-Q1/100-Days-of-Code/assets/59795183/5d9c4acc-c9db-4a13-be4c-fc50ff6b1fd1)
+- - ![image](https://github.com/Saurav-Q1/100-Days-of-Code/assets/59795183/5d9c4acc-c9db-4a13-be4c-fc50ff6b1fd1)
+
+# Day 32
+- Learning about media query
+- Responsive website design
+- Learning about bootstrap
+- Completed mentors project "Huddle landing page "
+- fully mobile device responsive
+- https://saurav-q1.github.io/31.12.2023-huddle-landinng-page.github.io/
+- ![image](https://github.com/Saurav-Q1/100-Days-of-Code/assets/59795183/6b9e72aa-8a8f-477b-847e-c60cccb44981)
+- ![image](https://github.com/Saurav-Q1/100-Days-of-Code/assets/59795183/20321f7b-ba66-47b0-b419-b41bfefe0ba2)
+- ![image](https://github.com/Saurav-Q1/100-Days-of-Code/assets/59795183/0bcf587b-6e92-456d-b10f-28111c19827a)
+
+
+
+
 
 
 
