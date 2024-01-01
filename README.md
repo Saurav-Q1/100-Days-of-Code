@@ -322,6 +322,11 @@ Any suggestions on how I can improve are welcome!
 - ![image](https://github.com/Saurav-Q1/100-Days-of-Code/assets/59795183/20321f7b-ba66-47b0-b419-b41bfefe0ba2)
 - ![image](https://github.com/Saurav-Q1/100-Days-of-Code/assets/59795183/0bcf587b-6e92-456d-b10f-28111c19827a)
 
+# Day 33
+- Learning About respnsive website
+- Learning more about bootstrap
+- working on a personal project "Digital agency"
+- ![image](https://github.com/Saurav-Q1/100-Days-of-Code/assets/59795183/96ddaef2-616f-4b15-860e-7239a7e21fa0)
 
 
 
