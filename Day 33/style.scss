@@ -1,0 +1,49 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+.cst-bg-color {
+  background-image: linear-gradient(to right, #a517ba, #5f1782);
+}
+body {
+  font-family: sans-serif;
+  #nav-bar {
+    position: sticky;
+    top: 0;
+    z-index: 10;
+    .navbar {
+      .navbar-nav li {
+        padding: 0 10px;
+      }
+      .navbar-nav li a {
+        color: white;
+        float: right;
+        text-align: left;
+      }
+      .fa-bars {
+        font-size: 30px;
+        color: white;
+      }
+      .navbar-toggler {
+        outline: none !important;
+      }
+    }
+  }
+  //banner section
+  #banner {
+    background-image: linear-gradient(to right, #a517ba, #5f1782);
+    .container {
+      .play-btn {
+        width: 45px;
+        margin-right: 20px;
+      }
+      a {
+        color: white;
+        text-decoration: none;
+      }
+    }
+  }
+  .bg-wave {
+  }
+}
