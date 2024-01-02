@@ -1,0 +1,138 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+
+.all-bg {
+  background-color: #1a1a1a;
+}
+
+.cst-padding {
+  padding: 150px 0px;
+}
+
+.cst-pbottom {
+  padding-bottom: 150px;
+}
+
+.cst-mbottom {
+  margin-bottom: 100px;
+}
+
+.ff-sync {
+  font-family: "Syne", sans-serif;
+}
+
+.ff-rubik {
+  font-family: "Rubik", sans-serif;
+}
+
+.lead-color {
+  color: #a8a8a8;
+}
+
+body header {
+  background-color: #1a1a1a;
+}
+body header .nav-container {
+  position: sticky;
+  top: 0px;
+  z-index: 10;
+}
+body header .navbar .navbar-toggler {
+  text-align: center;
+}
+body header .navbar .navbar-toggler .ham-logo {
+  font-size: 30px;
+}
+body header #navbarNav ul li {
+  padding: 0px 15px;
+}
+body header #navbarNav ul li button {
+  display: block;
+  margin: auto;
+}
+body header #navbarNav ul li a {
+  color: #a8a8a8;
+  font-family: "Rubik", sans-serif;
+  text-align: center;
+}
+body header #navbarNav ul li button {
+  padding: 0px 10px;
+  border: none;
+  border-radius: 30px;
+  border: 2px solid #a8a8a8;
+  background-color: black;
+  font-weight: bold;
+}
+body header .cst-banner .banner-text {
+  font-family: "Syne", sans-serif;
+  font-weight: 700;
+  line-height: 86px;
+}
+body header .cst-banner .header-vector {
+  position: absolute;
+  top: -200px;
+  right: 0px;
+}
+body header .cst-banner a {
+  border-radius: 60px;
+  background-color: #ff9142;
+  padding: 20px 60px;
+  text-decoration: none;
+  color: white;
+  font-size: 20px;
+  font-weight: 500;
+  font-family: "Rubik", sans-serif;
+}
+body #hero {
+  background-color: #1a1a1a;
+}
+body #hero .hero-heading {
+  line-height: px;
+}
+body #hero .lead-text {
+  color: #a8a8a8;
+  margin-bottom: 100px;
+}
+body #hero .btn-hero {
+  margin-top: 50px;
+  border-radius: 60px;
+  background-color: #ff9142;
+  padding: 20px 34px;
+  text-decoration: none;
+  color: white;
+  font-size: 20px;
+  font-weight: 500;
+  font-family: "Rubik", sans-serif;
+}
+body #hero .hero-vetor {
+  position: absolute;
+  left: -200px;
+  top: -300px;
+}
+body #project .btn-explore {
+  background-color: #1a1a1a;
+  border: 2px solid #ff9142;
+  border-radius: 60px;
+  padding: 20px 60px;
+  text-decoration: none;
+  color: white;
+  font-size: 20px;
+  font-weight: 500;
+  font-family: "Rubik", sans-serif;
+}
+body #testimonial .ts-img {
+  left: -300px;
+  top: -200px;
+}
+body footer .header-1 {
+  color: #ff9142;
+}
+body footer .header-2 {
+  text-decoration: underline;
+}
+body footer .logos {
+  font-size: 30px;
+}/*# sourceMappingURL=style.css.map */
