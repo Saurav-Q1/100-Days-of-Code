@@ -328,6 +328,14 @@ Any suggestions on how I can improve are welcome!
 - working on a personal project "Digital agency"
 - ![image](https://github.com/Saurav-Q1/100-Days-of-Code/assets/59795183/96ddaef2-616f-4b15-860e-7239a7e21fa0)
 
+# Day 34
+- Learning about responsive website
+- Finished working on a landing page
+- "AAorann" (HTML+SASS+BOOSTRAP)
+- https://stately-toffee-dbbae7.netlify.app/
+- ![image](https://github.com/Saurav-Q1/100-Days-of-Code/assets/59795183/812f7f50-eed5-46bb-969b-867402733dfe)
+- ![image](https://github.com/Saurav-Q1/100-Days-of-Code/assets/59795183/c12a592a-217b-4a21-b38e-98d48b437b5b)
+
 
 
 
