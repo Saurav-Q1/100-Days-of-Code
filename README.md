@@ -336,6 +336,15 @@ Any suggestions on how I can improve are welcome!
 - ![image](https://github.com/Saurav-Q1/100-Days-of-Code/assets/59795183/812f7f50-eed5-46bb-969b-867402733dfe)
 - ![image](https://github.com/Saurav-Q1/100-Days-of-Code/assets/59795183/c12a592a-217b-4a21-b38e-98d48b437b5b)
 
+# Day 35
+- Learning about responsive design
+- Finished working on a landing page "Digital agency"
+- (HTML + SASS + BOOSTRAP)
+- https://gleeful-parfait-b106ac.netlify.app/
+- ![image](https://github.com/Saurav-Q1/100-Days-of-Code/assets/59795183/37a0b3c2-0a94-4a42-b49d-b59da71f0b59)
+- ![image](https://github.com/Saurav-Q1/100-Days-of-Code/assets/59795183/e2b02e83-f4cb-443f-ae8b-d4787dae994f)
+
+
 
 
 
