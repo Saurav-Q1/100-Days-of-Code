@@ -1,0 +1,136 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+
+body {
+  header {
+    // navbar
+    .nav-font {
+      font-weight: bold;
+    }
+    .nav-logo {
+      font-weight: bold;
+      font-size: 40px;
+    }
+    .btn-form {
+      background-color: orange;
+      border: none;
+    }
+  }
+  //banner section
+  #banner {
+    .cst-container {
+      padding: 200px 20px;
+      background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),
+        url(./images/background-img.png);
+      //background-image: url(./images/paris.jpg);
+      //background-image: url("https://www.pixelstalk.net/wp-content/uploads/images6/Awesome-Travel-Wallpaper-HD.jpg");
+      background-repeat: no-repeat;
+      background-size: cover;
+
+      h2 {
+        color: white;
+        text-shadow: 0px 1px 1px black;
+      }
+      h1 {
+        color: white;
+        padding: 20px 0px;
+        font-size: 70px;
+        text-shadow: 0px 1px 1px black;
+        // animation text
+        .changecontent::after {
+          content: "";
+          color: orange;
+          text-shadow: 0px 1px 1px black;
+          animation: changetxt 10s infinite linear;
+        }
+        @keyframes changetxt {
+          0% {
+            content: "Frnace";
+          }
+          10% {
+            content: "Spain";
+          }
+          20% {
+            content: "U.S.";
+          }
+          30% {
+            content: "China";
+          }
+          40% {
+            content: "India";
+          }
+          50% {
+            content: "Pakistan";
+          }
+          60% {
+            content: "Italy";
+          }
+          70% {
+            content: "Turkey";
+          }
+          80% {
+            content: "Maxico";
+          }
+          90% {
+            content: "Germany";
+          }
+          100% {
+            content: "U.K.";
+          }
+        }
+      }
+      p {
+        color: white;
+        padding-bottom: 20px;
+        text-shadow: 0px 1px 1px black;
+        font-size: 30px;
+      }
+      a {
+        text-decoration: none;
+        background-color: white;
+        font-size: 18px;
+        color: black;
+        font-weight: bold;
+        border-radius: 5px;
+        padding: 15px 25px;
+      }
+    }
+  }
+  //book section
+  #book {
+    .book-heading {
+      font-size: 40px;
+      text-shadow: 0px 1px 1px black;
+    }
+    .submit {
+      background-color: orange;
+      border: none;
+      border-radius: 5px;
+      padding: 10px 30px;
+      margin-top: 10px;
+      color: white;
+      font-weight: bold;
+      text-shadow: 0px 1px 1px black;
+    }
+    .submit:hover {
+      box-shadow: 1px 3px 5px 0px rgba(0, 0, 0, 0.49);
+      -webkit-box-shadow: 1px 3px 5px 0px rgba(0, 0, 0, 0.49);
+      -moz-box-shadow: 1px 3px 5px 0px rgba(0, 0, 0, 0.49);
+    }
+  }
+  //packgaes
+  #packages {
+    .package-heading {
+      text-shadow: 0px 1px 1px black;
+    }
+    .card {
+      border: none;
+      box-shadow: 1px 2px 14px -2px rgba(0, 0, 0, 0.27);
+      -webkit-box-shadow: 1px 2px 14px -2px rgba(0, 0, 0, 0.27);
+      -moz-box-shadow: 1px 2px 14px -2px rgba(0, 0, 0, 0.27);
+    }
+  }
+}
