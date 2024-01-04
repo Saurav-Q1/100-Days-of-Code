@@ -344,6 +344,13 @@ Any suggestions on how I can improve are welcome!
 - ![image](https://github.com/Saurav-Q1/100-Days-of-Code/assets/59795183/37a0b3c2-0a94-4a42-b49d-b59da71f0b59)
 - ![image](https://github.com/Saurav-Q1/100-Days-of-Code/assets/59795183/e2b02e83-f4cb-443f-ae8b-d4787dae994f)
 
+# Day 36
+- Learning about sass
+- Learning about text animation
+- Resposive design
+- Working on a "Travel" landing page
+- finished working on nav section, banner section, booking section and sevices section
+- ![image](https://github.com/Saurav-Q1/100-Days-of-Code/assets/59795183/c9c89a2d-f57b-4f50-a109-88a6fb79b1ab)
 
 
 
