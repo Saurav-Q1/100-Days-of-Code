@@ -352,6 +352,14 @@ Any suggestions on how I can improve are welcome!
 - finished working on nav section, banner section, booking section and sevices section
 - ![image](https://github.com/Saurav-Q1/100-Days-of-Code/assets/59795183/c9c89a2d-f57b-4f50-a109-88a6fb79b1ab)
 
+# Day 37
+- Learning about sass
+- working on resposive design
+- Finished working on a personal project "Travel"
+- (HTML + SASS + BOOTSTRAP 5)
+- https://gentle-speculoos-6fc761.netlify.app/
+- ![image](https://github.com/Saurav-Q1/100-Days-of-Code/assets/59795183/a69eccb7-2a09-4d39-9a07-1cb111ca4763)
+
 
 
 
