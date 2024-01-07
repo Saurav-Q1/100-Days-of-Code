@@ -360,6 +360,18 @@ Any suggestions on how I can improve are welcome!
 - https://gentle-speculoos-6fc761.netlify.app/
 - ![image](https://github.com/Saurav-Q1/100-Days-of-Code/assets/59795183/a69eccb7-2a09-4d39-9a07-1cb111ca4763)
 
+# Day 38
+- Learning About sass
+- Responsive Design
+- Working on a new project called "John doe portfolio"
+- Finished working on nav section
+- Finished working on hero section
+- ![image](https://github.com/Saurav-Q1/100-Days-of-Code/assets/59795183/8be0bc7e-e47e-478a-9bdd-1175edb8d55f)
+- ![image](https://github.com/Saurav-Q1/100-Days-of-Code/assets/59795183/c98492f8-6f6d-4b05-a955-ec5452e9c614)
+- ![image](https://github.com/Saurav-Q1/100-Days-of-Code/assets/59795183/01398b6f-5209-47cd-afd3-c434df06544c)
+
+
+ 
 
 
 
