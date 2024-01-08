@@ -1,0 +1,91 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+
+#nav-section .navbar-brand {
+  font-size: 2rem;
+}
+#nav-section .navbar-nav li a {
+  font-size: 1.2rem;
+  padding-left: 2rem;
+  transition: all 3s;
+}
+#nav-section .navbar-nav li a:hover {
+  text-shadow: 0px 2px 2px gray;
+  color: black;
+  text-decoration: underline;
+}
+
+#hero p {
+  font-size: 1.5rem;
+  color: #555555;
+}
+#hero h1 {
+  font-weight: 700;
+  font-size: 3rem;
+}
+#hero h3 {
+  font-weight: 700;
+  color: #555555;
+}
+#hero .cv {
+  font-size: 1rem;
+  background-color: white;
+  color: black;
+  padding: 1rem 1rem;
+  border-radius: 2.5rem;
+  text-decoration: none;
+  border: 2px solid black;
+  transition: all 0.3s;
+}
+#hero .cv:hover {
+  background-color: black;
+  color: white;
+}
+#hero .contact {
+  font-size: 1rem;
+  background-color: black;
+  color: white;
+  padding: 1rem 1rem;
+  border-radius: 2.5rem;
+  text-decoration: none;
+  border: 2px solid black;
+  transition: all 0.3s;
+}
+#hero .contact:hover {
+  background-color: white;
+  color: black;
+}
+
+#about .about-text {
+  font-size: 1.5rem;
+  color: #555555;
+}
+#about .about-heading {
+  font-weight: 700;
+  font-size: 3rem;
+}
+#about .about-img {
+  border-radius: 2rem;
+}
+#about .fa-solid {
+  font-size: 2rem;
+  padding: 1rem;
+}
+#about .about-txt-left,
+#about .about-txt-right {
+  border: 1px solid black;
+  border-radius: 2rem;
+}
+
+#experience .experience-tex {
+  font-size: 1.5rem;
+  color: #555555;
+}
+#experience .experience-heading {
+  font-weight: 700;
+  font-size: 3rem;
+}/*# sourceMappingURL=style.css.map */
