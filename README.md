@@ -370,6 +370,11 @@ Any suggestions on how I can improve are welcome!
 - ![image](https://github.com/Saurav-Q1/100-Days-of-Code/assets/59795183/c98492f8-6f6d-4b05-a955-ec5452e9c614)
 - ![image](https://github.com/Saurav-Q1/100-Days-of-Code/assets/59795183/01398b6f-5209-47cd-afd3-c434df06544c)
 
+# Day 39
+- Learning about responsive design
+- bootsrap
+- finished working on "About me section"
+- ![image](https://github.com/Saurav-Q1/100-Days-of-Code/assets/59795183/29e3d020-96ea-47cd-a2ca-c535b83a56af)
 
  
 
