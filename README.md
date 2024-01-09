@@ -376,7 +376,17 @@ Any suggestions on how I can improve are welcome!
 - finished working on "About me section"
 - ![image](https://github.com/Saurav-Q1/100-Days-of-Code/assets/59795183/29e3d020-96ea-47cd-a2ca-c535b83a56af)
 
- 
+# Day 40
+- Learning About responsive design
+- Working on a old project caleed "Bantu warga"
+- Trying to make it responsive
+- live site: https://creative-bavarois-8dd3ba.netlify.app/
+- ![image](https://github.com/Saurav-Q1/100-Days-of-Code/assets/59795183/d84a6965-4ccf-4e63-93c6-d1f7c4f6d5bc)
+- ![image](https://github.com/Saurav-Q1/100-Days-of-Code/assets/59795183/1b68c5b1-36b8-4d61-8f3b-154fb2bbc86f)
+- ![image](https://github.com/Saurav-Q1/100-Days-of-Code/assets/59795183/fccb49dd-42c5-454a-987a-e21b3e1777fa)
+
+
+
 
 
 
