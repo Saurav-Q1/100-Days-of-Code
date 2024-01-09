@@ -1,0 +1,271 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+@media only screen and (min-width: 768px) {
+  #getAppSection {
+    padding: 50px 0px;
+  }
+  #getAppSection .ga-container {
+    max-width: 1440px;
+    margin: auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+  }
+  #getAppSection .ga-container .ga-img {
+    width: 50%;
+    text-align: center;
+  }
+  #getAppSection .ga-container .ga-img .get-app-img {
+    max-width: 100%;
+    max-width: 100%;
+  }
+  #getAppSection .ga-container .ga-text {
+    width: 50%;
+    text-align: left;
+    padding: 50px;
+  }
+  #getAppSection .ga-container .ga-text a {
+    color: #5669ff;
+    font-family: "Poppins", sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    letter-spacing: 0.32px;
+    text-decoration: none;
+  }
+  #getAppSection .ga-container .ga-text .ga-heading {
+    color: #000;
+    font-family: "Poppins", sans-serif;
+    font-size: 52px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    letter-spacing: 2.6px;
+    padding: 30px 0px;
+  }
+  #getAppSection .ga-container .ga-text .ga-para {
+    max-width: 500px;
+    color: #4a4545;
+    font-family: "Poppins", sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: 0.32px;
+    padding-bottom: 30px;
+  }
+}
+@media only screen and (max-width: 768px) {
+  #getAppSection {
+    padding: 50px 0px;
+  }
+  #getAppSection .ga-container {
+    text-align: center;
+  }
+  #getAppSection .ga-container .get-app-img {
+    max-width: 100%;
+    max-height: 100%;
+  }
+  #getAppSection .ga-container .ga-text {
+    padding: 50px;
+  }
+  #getAppSection .ga-container .ga-text .ga-heading {
+    color: #000;
+    font-family: "Poppins", sans-serif;
+    font-size: 35px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    letter-spacing: 2.6px;
+    padding: 30px 0px;
+  }
+  #getAppSection .ga-container .ga-text a {
+    color: #5669ff;
+    font-family: "Poppins", sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    letter-spacing: 0.32px;
+    text-decoration: none;
+  }
+  #getAppSection .ga-container .ga-text .ga-para {
+    color: #4a4545;
+    font-family: "Poppins", sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: 0.32px;
+    padding-bottom: 30px;
+  }
+}
+@media only screen and (min-width: 768px) {
+  #covid-info {
+    padding: 50px 0px;
+  }
+  #covid-info .covid-container {
+    max-width: 1440px;
+    margin: auto;
+    display: flex;
+  }
+  #covid-info .covid-container .covid-info-content {
+    width: 50%;
+    padding: 50px;
+  }
+  #covid-info .covid-container .covid-info-content a {
+    text-decoration: none;
+    color: #5669ff;
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    letter-spacing: 0.32px;
+  }
+  #covid-info .covid-container .covid-info-content h2 {
+    padding: 30px 0px;
+    color: #000;
+    font-size: 52px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    letter-spacing: 2.6px;
+    font-family: "Poppins", sans-serif;
+  }
+  #covid-info .covid-container .covid-info-content .covid-info-content-list li {
+    padding: 30px 0px;
+    list-style: none;
+  }
+  #covid-info .covid-container .covid-info-content .covid-info-content-list li img {
+    float: left;
+    padding: 0px 20px 80px 0px;
+  }
+  #covid-info .covid-container .covid-info-content .covid-info-content-list li h4 {
+    color: #000;
+    font-family: "Poppins", sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    letter-spacing: 1px;
+  }
+  #covid-info .covid-container .covid-info-content .covid-info-content-list li p {
+    color: #4a4545;
+    font-family: "Poppins", sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: 0.32px;
+  }
+  #covid-info .covid-container .covid-info-content .see-demo .covid-info-button {
+    font-family: "Poppins", sans-serif;
+    font-size: 16px;
+    color: #fff;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    letter-spacing: 0.32px;
+    border: none;
+    background-color: #5669ff;
+    padding: 10px 20px;
+    border-radius: 10px;
+  }
+  #covid-info .covid-container .covid-info-photo {
+    width: 50%;
+    padding: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  #covid-info .covid-container .covid-info-photo .cv-img {
+    max-width: 100%;
+    max-height: 100%;
+  }
+}
+@media only screen and (max-width: 768px) {
+  #covid-info {
+    padding: 50px 0px;
+  }
+  #covid-info .covid-container .covid-info-content {
+    padding: 50px;
+  }
+  #covid-info .covid-container .covid-info-content a {
+    display: block;
+    margin: auto;
+    text-decoration: none;
+    color: #5669ff;
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    letter-spacing: 0.32px;
+  }
+  #covid-info .covid-container .covid-info-content h2 {
+    text-align: center;
+    padding: 30px 0px;
+    color: #000;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    letter-spacing: 2.6px;
+    font-family: "Poppins", sans-serif;
+  }
+  #covid-info .covid-container .covid-info-content .covid-info-content-list li {
+    padding: 30px 0px;
+    list-style: none;
+  }
+  #covid-info .covid-container .covid-info-content .covid-info-content-list li img {
+    float: left;
+    padding: 0px 20px 80px 0px;
+  }
+  #covid-info .covid-container .covid-info-content .covid-info-content-list li h4 {
+    color: #000;
+    font-family: "Poppins", sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    letter-spacing: 1px;
+  }
+  #covid-info .covid-container .covid-info-content .covid-info-content-list li p {
+    color: #4a4545;
+    font-family: Poppins;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: 0.32px;
+  }
+  #covid-info .covid-container .covid-info-content .see-demo .covid-info-button {
+    font-family: "Poppins", sans-serif;
+    font-size: 16px;
+    color: #fff;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    letter-spacing: 0.32px;
+    border: none;
+    background-color: #5669ff;
+    padding: 10px 20px;
+    border-radius: 10px;
+  }
+  #covid-info .covid-container .covid-info-photo {
+    text-align: center;
+    position: relative;
+    padding: 50px;
+  }
+  #covid-info .covid-container .covid-info-photo .cv-img {
+    max-height: 100%;
+    max-width: 100%;
+  }
+}/*# sourceMappingURL=style2.css.map */
