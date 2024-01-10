@@ -385,6 +385,11 @@ Any suggestions on how I can improve are welcome!
 - ![image](https://github.com/Saurav-Q1/100-Days-of-Code/assets/59795183/1b68c5b1-36b8-4d61-8f3b-154fb2bbc86f)
 - ![image](https://github.com/Saurav-Q1/100-Days-of-Code/assets/59795183/fccb49dd-42c5-454a-987a-e21b3e1777fa)
 
+# Day 41
+- Learning about responsive design
+- working on a old project "john doe portfolio"
+- finished working on experience section
+- ![image](https://github.com/Saurav-Q1/100-Days-of-Code/assets/59795183/f6a45ca0-82b2-42f4-88a5-7696d4795f1e)
 
 
 
