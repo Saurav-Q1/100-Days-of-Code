@@ -391,7 +391,10 @@ Any suggestions on how I can improve are welcome!
 - finished working on experience section
 - ![image](https://github.com/Saurav-Q1/100-Days-of-Code/assets/59795183/f6a45ca0-82b2-42f4-88a5-7696d4795f1e)
 
-
+# Day 42
+- Learning about responsive design
+- Finished working on "portfolio landing page"
+- https://deluxe-daffodil-45c55d.netlify.app/
 
 
 
