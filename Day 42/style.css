@@ -1,0 +1,189 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+
+#nav-section {
+  position: sticky;
+  top: 0px;
+  z-index: 10;
+}
+#nav-section .navbar-brand {
+  font-size: 2rem;
+}
+#nav-section .navbar-nav li a {
+  font-size: 1.2rem;
+  padding-left: 2rem;
+  transition: all 3s;
+}
+#nav-section .navbar-nav li a:hover {
+  text-shadow: 0px 2px 2px gray;
+  color: black;
+  text-decoration: underline;
+}
+
+#hero p {
+  font-size: 1.5rem;
+  color: #555555;
+}
+#hero h1 {
+  font-weight: 700;
+  font-size: 3rem;
+}
+#hero h3 {
+  font-weight: 700;
+  color: #555555;
+}
+#hero .cv {
+  font-size: 1rem;
+  background-color: white;
+  color: black;
+  padding: 1rem 1rem;
+  border-radius: 2.5rem;
+  text-decoration: none;
+  border: 2px solid black;
+  transition: all 0.3s;
+}
+#hero .cv:hover {
+  background-color: black;
+  color: white;
+}
+#hero .contact {
+  font-size: 1rem;
+  background-color: black;
+  color: white;
+  padding: 1rem 1rem;
+  border-radius: 2.5rem;
+  text-decoration: none;
+  border: 2px solid black;
+  transition: all 0.3s;
+}
+#hero .contact:hover {
+  background-color: white;
+  color: black;
+}
+
+#about .about-text {
+  font-size: 1.5rem;
+  color: #555555;
+}
+#about .about-heading {
+  font-weight: 700;
+  font-size: 3rem;
+}
+#about .about-img {
+  border-radius: 2rem;
+}
+#about .fa-solid {
+  font-size: 2rem;
+  padding: 1rem;
+}
+#about .about-txt-left,
+#about .about-txt-right {
+  border: 1px solid black;
+  border-radius: 2rem;
+}
+
+#experience .experience-text {
+  font-size: 1.5rem;
+  color: #555555;
+}
+#experience .experience-heading {
+  font-weight: 700;
+  font-size: 3rem;
+}
+#experience .f-left,
+#experience .f-right {
+  border: 1px solid black;
+  border-radius: 2rem;
+}
+#experience .f-left .skills,
+#experience .f-right .skills {
+  font-size: 20px;
+}
+
+#project .project-text {
+  font-size: 1.5rem;
+  color: #555555;
+}
+#project .project-heading {
+  font-weight: 700;
+  font-size: 3rem;
+}
+#project .project-items {
+  border: 1px solid black;
+  border-radius: 2rem;
+}
+#project .project-items .p-img {
+  border-radius: 2rem;
+}
+#project .project-items .btn-project .github {
+  padding: 15px 45px;
+  border: none;
+  text-decoration: none;
+  color: black;
+  font-size: 13px;
+  border: 2px solid gray;
+  background-color: white;
+  border-radius: 2rem;
+  transition: all 0.3s;
+}
+#project .project-items .btn-project .live-demo {
+  padding: 15px 30px;
+  border: none;
+  text-decoration: none;
+  color: black;
+  font-size: 13px;
+  border: 2px solid gray;
+  background-color: white;
+  border-radius: 2rem;
+  transition: all 0.3s;
+}
+#project .project-items .btn-project .github:hover,
+#project .project-items .btn-project .live-demo:hover {
+  background-color: black;
+  color: white;
+  border-color: black;
+}
+
+#contact .contact-txt {
+  font-size: 1.5rem;
+  color: #555555;
+}
+#contact .contanct-heading {
+  font-weight: 700;
+  font-size: 3rem;
+}
+#contact .contact-form {
+  border: 1px solid gray;
+  border-radius: 2rem;
+}
+#contact .contact-form .mail {
+  font-size: 25px;
+}
+#contact .contact-form .mail a {
+  text-decoration: none;
+  color: #555555;
+  display: inline;
+  transition: all 0.3s;
+}
+#contact .contact-form .linkdin {
+  font-size: 25px;
+}
+#contact .contact-form .linkdin a {
+  text-decoration: none;
+  color: #555555;
+  transition: all 0.3s;
+}
+#contact .contact-form a:hover {
+  text-decoration: underline;
+  color: black;
+  font-weight: bold;
+}
+#contact .contact-form .fa-brands,
+#contact .contact-form .fa-solid {
+  font-size: 30px;
+  padding: 20px;
+}/*# sourceMappingURL=style.css.map */
