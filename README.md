@@ -396,6 +396,12 @@ Any suggestions on how I can improve are welcome!
 - Finished working on "portfolio landing page"
 - https://deluxe-daffodil-45c55d.netlify.app/
 
+# Day 43
+- Learning about parallex effect
+- Started working on a landing page called "hiking guide"
+- Lerning about multiple dropdown navigation bar
+- Finished working on a multiple navigation bar
+- ![image](https://github.com/Saurav-Q1/100-Days-of-Code/assets/59795183/cb8f4ab5-46e2-4e2a-b080-86ea6fd57e4d)
 
 
 
