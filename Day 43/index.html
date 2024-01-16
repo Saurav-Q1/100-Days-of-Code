@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <!-- custom css  -->
+    <link rel="stylesheet" href="style.css" />
+    <title>Multiple dropdown</title>
+  </head>
+  <body>
+    <div class="container">
+      <!-- https://www.cssscript.com/create-a-multi-level-drop-down-menu-with-pure-css/ -->
+
+      <ul class="main-navigation">
+        <li><a href="#">Home</a></li>
+        <li>
+          <a href="#">WordPress</a>
+          <!-- first drop down  -->
+          <ul class="first-drop">
+            <li><a href="#">Themes</a></li>
+            <li>
+              <a href="#">Plugins</a>
+            </li>
+            <li class="second-li-drop">
+              <a href="#">Tutorials</a>
+              <!-- 2nd dropdown  -->
+              <ul class="second-drop">
+                <li><a href="#">Stuff</a></li>
+                <li><a href="#">Things</a></li>
+                <li><a href="#">Other Stuff</a></li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+        <li>
+          <a href="#">Graphics Design</a>
+        </li>
+        <li><a href="#">Inspiration</a></li>
+        <li><a href="#">Conact</a></li>
+        <li><a href="#">About</a></li>
+      </ul>
+    </div>
+  </body>
+</html>
