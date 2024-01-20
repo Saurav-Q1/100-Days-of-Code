@@ -403,6 +403,11 @@ Any suggestions on how I can improve are welcome!
 - Finished working on a multiple navigation bar
 - ![image](https://github.com/Saurav-Q1/100-Days-of-Code/assets/59795183/cb8f4ab5-46e2-4e2a-b080-86ea6fd57e4d)
 
+# Day 44
+- Learing about glass morphism
+- Created a login form with glass effect
+- https://amazing-cranachan-ae5ce8.netlify.app/?#
+- ![image](https://github.com/Saurav-Q1/100-Days-of-Code/assets/59795183/3d06e88c-8cd6-428e-acac-87f8538f0292)
 
 
 
