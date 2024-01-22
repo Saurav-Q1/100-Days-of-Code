@@ -409,6 +409,13 @@ Any suggestions on how I can improve are welcome!
 - https://amazing-cranachan-ae5ce8.netlify.app/?#
 - ![image](https://github.com/Saurav-Q1/100-Days-of-Code/assets/59795183/3d06e88c-8cd6-428e-acac-87f8538f0292)
 
+# day 45
+- Learning about js
+- learning about responsive design
+- Created a "API landing page" from frontend mentor
+- (HTML + CSS + BOOTSTRAP)
+- https://singular-conkies-519e35.netlify.app/#
+- ![image](https://github.com/Saurav-Q1/100-Days-of-Code/assets/59795183/e5345433-6eb3-48db-ba63-908ef424ca2f)
 
 
 
