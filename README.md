@@ -409,7 +409,7 @@ Any suggestions on how I can improve are welcome!
 - https://amazing-cranachan-ae5ce8.netlify.app/?#
 - ![image](https://github.com/Saurav-Q1/100-Days-of-Code/assets/59795183/3d06e88c-8cd6-428e-acac-87f8538f0292)
 
-# day 45
+# Day 45
 - Learning about js
 - learning about responsive design
 - Created a "API landing page" from frontend mentor
@@ -417,5 +417,17 @@ Any suggestions on how I can improve are welcome!
 - https://singular-conkies-519e35.netlify.app/#
 - ![image](https://github.com/Saurav-Q1/100-Days-of-Code/assets/59795183/e5345433-6eb3-48db-ba63-908ef424ca2f)
 
+# Day 46
+- learing about javascript
+- lerning about alert, promt box
+- loops
+- memory allocation
+- array
+- Created some small program
+- fizzbuzz
+- inch to meter converter
+- USD to bdt converter
+- BMI calculator
+- celsius to fahrenheit
 
 
