@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>BMI Calculator</title>
+  </head>
+  <body>
+    <script>
+      let height = Number(prompt("Enter your height in meters :"));
+      let weight = Number(prompt("Enter your Weight in kg :"));
+      BMI = weight / (height * height);
+      //   alert("under weight = " + BMI);
+      if (BMI < 18.5) {
+        alert("under weight = " + BMI);
+      } else if (BMI < 25) {
+        alert("normal weight = " + BMI);
+      } else if (BMI >= 25 && BMI <= 29.9) {
+        alert("over weight = " + BMI);
+      } else {
+        alert("obese = " + BMI);
+      }
+    </script>
+  </body>
+</html>
