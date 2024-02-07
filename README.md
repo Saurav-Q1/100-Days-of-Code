@@ -430,4 +430,14 @@ Any suggestions on how I can improve are welcome!
 - BMI calculator
 - celsius to fahrenheit
 
+# Day 47
+- Learning about js function
+- lerning about object
+- solving problems using js functions
+- https://codepen.io/Saurav-Chakrobartty/pen/abMKwje?editors=1111
+- https://codepen.io/Saurav-Chakrobartty/pen/wvOXrjK?editors=1112
+- https://codepen.io/Saurav-Chakrobartty/pen/gOEjKBJ
+- https://codepen.io/Saurav-Chakrobartty/pen/GReGOqZ?editors=1111
+- https://codepen.io/Saurav-Chakrobartty/pen/YzgvEry?editors=1111
+
 
