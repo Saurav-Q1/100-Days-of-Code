@@ -440,4 +440,20 @@ Any suggestions on how I can improve are welcome!
 - https://codepen.io/Saurav-Chakrobartty/pen/GReGOqZ?editors=1111
 - https://codepen.io/Saurav-Chakrobartty/pen/YzgvEry?editors=1111
 
+# Day 48
+- Learning About array
+- Solving problem using class and object
+- Write an article about important String methods
+My work : https://voracious-meter-3ab.notion.site/Most-useful-JavaScript-String-Methods-888ce55972834c0ea57a27dcb6d547bf?pvs=4
+
+sliceString(str, start, end)
+My work : https://codepen.io/Saurav-Chakrobartty/pen/wvORrdP 
+
+Make a function that removes any space from the string
+My work: https://codepen.io/Saurav-Chakrobartty/pen/eYXbeBp?editors=1111 
+
+Make a function that counts the number of vowels in a string without ‘a’
+My work:  https://codepen.io/Saurav-Chakrobartty/pen/bGZOYYy?editors=1111 
+
+
 
