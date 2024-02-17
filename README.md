@@ -444,16 +444,23 @@ Any suggestions on how I can improve are welcome!
 - Learning About array
 - Solving problem using class and object
 - Write an article about important String methods
-My work : https://voracious-meter-3ab.notion.site/Most-useful-JavaScript-String-Methods-888ce55972834c0ea57a27dcb6d547bf?pvs=4
+- My work : https://voracious-meter-3ab.notion.site/Most-useful-JavaScript-String-Methods-888ce55972834c0ea57a27dcb6d547bf?pvs=4
 
-sliceString(str, start, end)
-My work : https://codepen.io/Saurav-Chakrobartty/pen/wvORrdP 
+- sliceString(str, start, end)
+- My work : https://codepen.io/Saurav-Chakrobartty/pen/wvORrdP 
 
-Make a function that removes any space from the string
-My work: https://codepen.io/Saurav-Chakrobartty/pen/eYXbeBp?editors=1111 
+- Make a function that removes any space from the string
+- My work: https://codepen.io/Saurav-Chakrobartty/pen/eYXbeBp?editors=1111 
 
-Make a function that counts the number of vowels in a string without ‘a’
-My work:  https://codepen.io/Saurav-Chakrobartty/pen/bGZOYYy?editors=1111 
+- Make a function that counts the number of vowels in a string without ‘a’
+- My work:  https://codepen.io/Saurav-Chakrobartty/pen/bGZOYYy?editors=1111 
 
+# Day 49
+- Make a function that counts and prints the number of consonants in a sentence
+- My work: https://codepen.io/Saurav-Chakrobartty/pen/eYXxqmd?editors=1111 
+- Make a Palindrome Checker function
+- My work: https://codepen.io/Saurav-Chakrobartty/pen/rNRPXwm?editors=1111 
+- Research and write an article about JavaScript scope!
+- My article: https://voracious-meter-3ab.notion.site/Understanding-JavaScript-Scope-52ca8934faf74dbca462440c11696dc9?pvs=4 
 
 
